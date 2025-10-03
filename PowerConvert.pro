@@ -33,3 +33,4 @@ include( $(EMATH)/emath.pri )
 
 HEADERS += \
 	 emathlistmodel.h
+
